@@ -38,7 +38,7 @@ By building each one manually, we understand:
 ----
 > 🚀 How to Run
 
-Clone the repository: git clone https://github.com/yourusername/ml-algorithm-from-scratch.git
+Clone the repository: git clone https://github.com/VNIT-07/ml-algorithm-from-scratch.git
 
 Open the desired notebook (e.g., Linear_Regression.ipynb)
 
